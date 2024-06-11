@@ -28,6 +28,7 @@ WITHOUT PASSWORD
 
 ![image](https://github.com/Rupa-Veerala/Secret-Message-Encryption-Decryption-using-Python/assets/102415108/9ba8ccf0-c2ae-48c2-8b3f-83af6838a2ee)
 
+![image](https://github.com/Rupa-Veerala/Secret-Message-Encryption-Decryption-using-Python/assets/102415108/9a529191-9f12-4360-8dab-394142fc62ea)
 
 
 
